@@ -23,4 +23,9 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/google-keep-clone.git
+   git clone https://github.com/nazifansari/google-keep-clone.git
+2. cd google-keep-clone
+3. Open the index.html file in your browser to view the app.
+
+   
+   
