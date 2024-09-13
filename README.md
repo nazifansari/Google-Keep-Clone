@@ -2,7 +2,7 @@
 
 A simple and functional clone of Google Keep built using vanilla JavaScript, HTML, and CSS. The app allows users to create, edit, and delete notes, change note colors, and save notes using `localStorage` for persistence. The project is live and can be viewed on [Netlify](https://googlekeep1.netlify.app/).
 
-![Project Screenshot]()
+![Project Screenshot](https://github.com/nazifansari/Google-Keep-Clone/blob/main/googleclone.png)
 
 ## Features ✨
 
